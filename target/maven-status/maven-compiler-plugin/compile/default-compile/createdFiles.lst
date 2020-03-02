@@ -1,0 +1,5 @@
+com\athentication\oauth2\AuthtenticationOauthApplication.class
+com\athentication\oauth2\service\KeyCloakUser.class
+com\athentication\oauth2\endpoit\Controller.class
+com\athentication\oauth2\security\WebSecurityConfig.class
+com\athentication\oauth2\service\KeycloakClient.class
