@@ -85,7 +85,7 @@
 		<dependency>
 			<groupId>org.keycloak</groupId>
 			<artifactId>keycloak-services</artifactId>
-			<version>9.0.0</version>
+			<version>21.0.1</version>
 			<scope>provided</scope>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.keycloak/keycloak-spring-security-adapter -->
